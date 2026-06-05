@@ -1,0 +1,36 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family:'helvetica neue';
+  color: #fff;
+
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:#111;
+  padding:10px;
+  margin:10px 20px;
+ 
+  width: 50%;
+
+}
+
+.card{
+  background-color: rgb(223, 92, 114);
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+  
+}
+
+.nav{
+  background-color: rgb(15, 15, 84);
+  padding: 10px;
+  margin: 10px;
+  border: 1px white;
+}
