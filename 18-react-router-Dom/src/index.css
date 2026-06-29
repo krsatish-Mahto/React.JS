@@ -1,0 +1,33 @@
+*{
+  
+  padding: 0px;
+  box-sizing: border-box;
+  margin: 0px;
+  color: white;
+}
+
+.nav{
+   display: flex;
+   padding: 10px;
+   align-items: center;
+   justify-content: space-between;
+ 
+   background-color: rgb(9, 9, 146);
+}
+
+.nav div{
+  display: flex;
+  padding: 5px;
+  margin: 5px;
+  
+}
+
+#lnk a{
+  text-decoration: none;
+  display: flex;
+  padding: 5px;
+
+}
+body{
+  background-color: rgb(36, 25, 25);
+}

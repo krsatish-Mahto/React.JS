@@ -1,0 +1,8 @@
+1. BrowerRouter 
+updateyou.com=/   for home page
+updateyou.com= /live for live pages 
+
+2. HashRouter
+
+3. Memory router : store all entry in memory 
+4. Static rounter 
